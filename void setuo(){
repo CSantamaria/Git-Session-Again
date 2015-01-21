@@ -1,0 +1,10 @@
+void setup(){ 
+     println("Hi!");
+
+}
+
+void loop(){
+    println("Hello!"); 
+}
+
+
